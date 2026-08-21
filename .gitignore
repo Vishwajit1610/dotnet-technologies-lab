@@ -1,6 +1,15 @@
+# Visual Studio
 .vs/
+*.user
+*.suo
+
+# Build output
 bin/
 obj/
 
-*.user
-*.suo
+# NuGet packages
+packages/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
